@@ -1,4 +1,1 @@
- 1 chips 100 2
- 2 juice 80 5
- 3 bread 45 2
- 4 butter 120 10
+
